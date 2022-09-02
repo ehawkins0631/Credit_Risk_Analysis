@@ -69,8 +69,6 @@ Recall: High/Low risk = 0.69/0.40
 Combination Under-Over Sampling
 
 
-
-
 Figure 4:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818162-b333fa3b-db81-4d2d-9b3d-5710136a1634.png)
