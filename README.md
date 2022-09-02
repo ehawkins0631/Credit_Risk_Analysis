@@ -81,8 +81,6 @@ Balanced Random Forest Classifier
 
 
 
-
-
 Figure 5:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818211-a591995b-b94e-40d3-98ba-19abd139e780.png)
