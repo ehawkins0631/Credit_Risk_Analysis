@@ -93,7 +93,6 @@ Easy Ensemble AdaBoost Classifier
 
 
 
-
 Figure 6:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818251-55067370-7577-43e5-bc5c-1962c81b8a50.png)
