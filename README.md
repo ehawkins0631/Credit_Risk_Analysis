@@ -28,6 +28,7 @@ Purpose:
 * Interpret the results of the logistic regression, decision tree, random forest, and support vector machine algorithms.
 * Compare the advantages and disadvantages of each supervised learning algorithm.
 * Determine which Supervised Learning algorithm is best used for a given data set.
+* 
 * Use ensemble and resampling techniques to improve model performance.
 
 
