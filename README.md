@@ -18,6 +18,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * EasyEnsembleClassifier (bias reduction model)
 
 
+
 Purpose:
 
 * Explain how a machine learning algorithm is used in data analytics.
