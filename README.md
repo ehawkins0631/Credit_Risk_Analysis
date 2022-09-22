@@ -24,6 +24,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 Purpose:
 
+
 * Explain how a machine learning algorithm is used in data analytics.
 * Create training and test groups from a given data set.
 * Implement the logistic regression, decision tree, random forest, and Support Vector Machine algorithms.
