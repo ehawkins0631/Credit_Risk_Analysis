@@ -52,8 +52,6 @@ Recall: High/Low risk = 0.71/0.60
 SMOTE Oversampling
 
 
-
-
 Figure 2:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818080-bc6d6a1f-2abf-45d3-96b0-e296e7947409.png)
