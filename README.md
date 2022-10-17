@@ -1,4 +1,4 @@
-Credit_Risk_Analysis
+Credit Risk Analysis
 
 
 Supervised Machine Learning and Credit Risk
