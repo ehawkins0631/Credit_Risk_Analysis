@@ -6,7 +6,6 @@ Overview of the loan prediction risk analysis:
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques were used to train and evaluate models with unbalanced classes. Various libraries and algorithms were used to build and evaluate models using resampling including:
 
-
 * Imbalanced-learn
 * Scikit-learn
 * RandomOverSampler
@@ -17,7 +16,6 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * EasyEnsembleClassifier (bias reduction model)
 
 Purpose:
-
 
 * Explain how a machine learning algorithm is used in data analytics.
 * Create training and test groups from a given data set.
