@@ -57,17 +57,14 @@ Figure 3:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818117-a0b0b9f9-0cc7-47c9-a793-e650f9e3653e.png)
 
-
 Balanced Accuracy: 
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = 0.69/0.40
 Combination Under-Over Sampling
 
-
 Figure 4:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818162-b333fa3b-db81-4d2d-9b3d-5710136a1634.png)
-
 
 Balanced Accuracy: 
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
