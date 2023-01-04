@@ -38,12 +38,10 @@ Figure 1:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818055-9a5bbf61-b076-4db4-bf22-f9006cd178cb.png)
 
-
 Balanced Accuracy: 
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = 0.71/0.60
 SMOTE Oversampling
-
 
 Figure 2:
 
