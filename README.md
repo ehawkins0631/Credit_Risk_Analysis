@@ -1,6 +1,5 @@
 Credit Risk Analysis
 
-
 Supervised Machine Learning and Credit Risk
 
 Overview of the loan prediction risk analysis:
