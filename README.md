@@ -1,6 +1,5 @@
 Credit Risk Analysis
 
-
 Supervised Machine Learning and Credit Risk
 
 
@@ -29,6 +28,7 @@ Purpose:
 * Use ensemble and resampling techniques to improve model performance.
 
 Results:
+
 
 The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
 Naive Random Oversampling
