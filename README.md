@@ -4,7 +4,6 @@ Supervised Machine Learning and Credit Risk
 
 Overview of the loan prediction risk analysis:
 
-
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques were used to train and evaluate models with unbalanced classes. Various libraries and algorithms were used to build and evaluate models using resampling including:
 
 
@@ -91,9 +90,12 @@ Summary:
 
 When working with balanced accuracy, the highest compared accuracy between 0 and 1 and is closest to 1 is the best machine learning model. For the credit card data set, the Easy Ensemble AdaBoost Classifier is the best model to choose with its .93 balanced accuracy. The other models were below .80 balanced accuracy. The precision for all models were similar and within an appropriate range. The recall score also needs to fall within 0 and 1, with numbers closer to 1 being the better model. The Easy Ensemble AdaBoost Classifier had the highest recall score, making it the final best Machine Learning Model to choose for further credit card analysis.
 
+
 email:  ehawkins0631@gmail.com
 
+
 twitter: @evahawkins0630
+
 
 https://www.linkedin.com/in/eva-hawkins-a9b333147/
 
