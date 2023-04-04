@@ -1,13 +1,11 @@
 Credit Risk Analysis
 
-
 Supervised Machine Learning and Credit Risk
-
 
 Overview of the loan prediction risk analysis:
 
-
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques were used to train and evaluate models with unbalanced classes. Various libraries and algorithms were used to build and evaluate models using resampling including:
+
 
 * Imbalanced-learn
 * Scikit-learn
@@ -18,8 +16,8 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 * BalancedRandomForestClassifier (bias reduction model)
 * EasyEnsembleClassifier (bias reduction model)
 
-
 Purpose:
+
 
 * Explain how a machine learning algorithm is used in data analytics.
 * Create training and test groups from a given data set.
@@ -31,17 +29,21 @@ Purpose:
 
 Results:
 
+
 The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
 Naive Random Oversampling
+
 
 Figure 1:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818055-9a5bbf61-b076-4db4-bf22-f9006cd178cb.png)
 
+
 Balanced Accuracy: 
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = 0.71/0.60
 SMOTE Oversampling
+
 
 Figure 2:
 
