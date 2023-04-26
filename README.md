@@ -35,7 +35,6 @@ Results:
 The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
 Naive Random Oversampling
 
-
 Figure 1:
 
 ![image](https://user-images.githubusercontent.com/101227930/183818055-9a5bbf61-b076-4db4-bf22-f9006cd178cb.png)
@@ -98,9 +97,7 @@ When working with balanced accuracy, the highest compared accuracy between 0 and
 
 email:  ehawkins0631@gmail.com
 
-
 twitter: @evahawkins0630
-
 
 https://www.linkedin.com/in/eva-hawkins-a9b333147/
 
